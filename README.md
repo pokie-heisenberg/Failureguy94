@@ -22,7 +22,7 @@
 
 ## 💻 Tech Stack & Skills 
  <p align="center">
- <img src="https://skillicons.dev/icons?i=cpp,c,html,css,php,postgres,mysql,ts,js,react,nextjs,nodejs,solidity,python" alt="Languages" />
+ <img src="https://skillicons.dev/icons?i=cpp,c,html,css,php,postgres,mysql,ts,js,react,nextjs,nodejs,solidity,python,cmake," alt="Languages" />
   </p>
   <!-- <p align="center">
  <img src="https://skillicons.dev/icons?i=" alt="Languages" />
