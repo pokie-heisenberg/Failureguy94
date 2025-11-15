@@ -18,7 +18,7 @@
 
 </div>
 
-
+<div align="center">
 
 ## 💻 Tech Stack & Skills 
  <p align="center">
@@ -32,6 +32,7 @@
  </p>
 
 ---
+</div>
 <div align="center">
 
 ## 📊 GitHub Stats
